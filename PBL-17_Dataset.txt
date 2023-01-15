@@ -1,0 +1,8 @@
+Query Data from Dataset in Google Bigquery
+
+A1: https://console.cloud.google.com/bigquery?sq=889224908686:49b65f98d8cd48c28f32523ef908977d
+A2: https://console.cloud.google.com/bigquery?sq=889224908686:2388d73a9b2f4ba8badeeb63a1f04bc5
+A3: https://console.cloud.google.com/bigquery?sq=889224908686:2fa59dbec0d94d7b8bf8ccb83b58c019
+B1: https://console.cloud.google.com/bigquery?sq=889224908686:2926cce83a16472c844e50311e7f43bd
+C1: https://console.cloud.google.com/bigquery?sq=889224908686:246b4f0ade414749927f234e54d09bd3
+C2: https://console.cloud.google.com/bigquery?sq=889224908686:ebec79bb79d143ca913e12b8e4c5ee94
