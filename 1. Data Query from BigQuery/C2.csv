@@ -1,0 +1,50 @@
+payment_method,year,total
+BCA,2019,2536
+BCA,2020,5548
+BCA Bank Transfer,2018,5819
+BCA Bank Transfer,2019,6489
+BCA Bank Transfer,2020,19752
+BCA Klik Pay,2020,2
+BII,2018,55
+BII,2019,2
+BII,2020,7
+BNI,2018,178
+BNI,2019,92
+BNI,2020,1358
+BNI Bank Transfer,2018,304
+BNI Bank Transfer,2019,207
+BNI Bank Transfer,2020,268
+BRI,2018,138
+BRI,2019,107
+BRI,2020,531
+BRI Bank Transfer,2018,616
+BRI Bank Transfer,2019,440
+BRI Bank Transfer,2020,183
+Bank BCA,2019,210
+Bank BCA,2020,1519
+Credit Card,2018,439
+Credit Card,2019,81
+Credit Card,2020,37
+DBS Bank Transfer,2018,21
+DBS Bank Transfer,2019,6
+DBS Bank Transfer,2020,4
+Kredivo,2018,20
+Kredivo,2019,3
+Kredivo,2020,3
+Mandiri,2018,1093
+Mandiri,2019,145
+Mandiri,2020,719
+Mandiri Bank Transfer,2018,401
+Mandiri Bank Transfer,2019,339
+Mandiri Bank Transfer,2020,141
+Mandiri Internet Banking,2018,58
+Mandiri Internet Banking,2019,1
+Ovo,2019,359
+Ovo,2020,97
+Payment Nothing,2018,62
+Payment Nothing,2020,1
+Permata,2018,132
+Permata,2019,43
+Permata,2020,28
+Ralali Wallet,2019,3
+Ralali Wallet,2020,6402
